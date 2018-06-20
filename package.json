@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "hoek": "^5.0.3",
-    "parcel-bundler": "^1.9.2",
-    "parcel-plugin-inlinesvg": "^0.0.14"
+    "parcel-bundler": "^1.9.2"
   }
 }
